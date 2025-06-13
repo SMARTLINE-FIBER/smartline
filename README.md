@@ -1,44 +1,30 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Smartline Fiber Internet</title>
+  <title>Smartline Fiber</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f4;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
-    header {
-      background: #5a2c90;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    nav {
-      background: #333;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-    }
-    section {
-      padding: 40px;
-      text-align: center;
-    }
-    .services {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-    .service {
-      background: white;
-      margin: 10px;
-      padding: 20px;
-      width: 250px;
-      border-radius: 
+    body { font-family: sans-serif; padding: 20px; background: #f4f4f4; }
+    header { background: maroon; color: white; padding: 15px; }
+    h1 { margin: 0; }
+    section { margin-top: 20px; }
+    footer { margin-top: 40px; font-size: 12px; color: gray; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Smartline Fiber Internet</h1>
+    <p>Powered by One Broadband – A Hinduja Group Company</p>
+  </header>
+  <section>
+    <h2>Plans</h2>
+    <ul>
+      <li>40 Mbps @ ₹7500 for 24 MONTHS</li>
+    </ul>
+    <h2>Contact</h2>
+    <p>📞 8178234828<br>☎️ 02692230206</p>
+  </section>
+  <footer>
+    © 2025 Smartline Fiber. All rights reserved.
+  </footer>
+</body>
+</html>
